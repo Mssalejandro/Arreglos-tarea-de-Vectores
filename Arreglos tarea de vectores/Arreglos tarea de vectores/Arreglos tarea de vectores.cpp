@@ -1,7 +1,8 @@
+//Moises
 // Arreglos tarea de vectores.cpp : Defines the entry point for the console application.
-//
 
-#include "stdafx.h"
+//comentarionoproductivo
+
 #include <iostream>
 #include <cstdlib>
 
